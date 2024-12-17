@@ -1,5 +1,5 @@
 name: GitVault Backup
-description: "GitVault automatically backs up your repository to IPFS, providing decentralized storage with version history tracking. Ensures your code is preserved with censorship resistance while maintaining familiar GitHub workflows."
+description: "GitVault automatically backs up your repository to the DSN of your choice"
 on:
   push:
     branches:
